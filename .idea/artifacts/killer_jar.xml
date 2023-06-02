@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="killer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/killer_jar</output-path>
+    <root id="archive" name="killer.jar">
+      <element id="module-output" name="nannpure" />
+    </root>
+  </artifact>
+</component>
